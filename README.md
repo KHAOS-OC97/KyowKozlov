@@ -46,7 +46,7 @@
   <a href="https://www.twitch.tv/kyowkozlov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="sr_kozlov" target="_blank">
+  <a href="kchaosoc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="kyow.kozlov@gmail.com" target="_blank">
